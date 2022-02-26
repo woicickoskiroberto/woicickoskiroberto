@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Olá, sou Roberto Woicickoski, do Brasil 🇧🇷.
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:woicickoskiroberto@gmail.com) &emsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/woicickoskiroberto)
+
+<!--
 <div align="left">
     <a href="https://github.com/woicickoskiroberto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woicickoskiroberto&layout=compact&langs_count=7&theme=dark"/>
     </a>
 </div>
+-->
+
